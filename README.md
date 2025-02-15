@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
-<h3 align="center">🚀 Welcome to My GitHub! I'm a passionate Full-Stack Developer, Committed to creating high-performance, scalable, and meaningful solutions. With a strong foundation in MERN stack development, cloud computing, and problem-solving, I continuously explore new technologies to enhance performance and user experience.</h3>
+<h3 align="left">🚀 Welcome to My GitHub! I'm a passionate Full-Stack Developer, Committed to creating high-performance, scalable, and meaningful solutions. With a strong foundation in MERN stack development, cloud computing, and problem-solving, I continuously explore new technologies to enhance performance and user experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankur1824&label=Profile%20views&color=0e75b6&style=flat" alt="ankur1824" /> </p>
 
